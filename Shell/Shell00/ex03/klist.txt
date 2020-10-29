@@ -1,0 +1,5 @@
+Credentials cache: API:DF524CD0-E732-4E1E-A80D-5E7FC5AAB204
+        Principal: ysoroko@S19.BE
+
+  Issued                Expires               Principal
+Oct  6 16:57:35 2020  Oct  7 02:57:35 2020  krbtgt/S19.BE@S19.BE
