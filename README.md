@@ -6,7 +6,7 @@ The "piscine" is an intense coding challenge where during 4 weeks the entrants n
 
 Shell - the first two solo projects
 
-C - the rest of the solo projects (10 projects out of 13)
+C - the rest of the solo projects (10 projects out of 13 here)
 
 Rush - the group projects
 
