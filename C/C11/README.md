@@ -12,6 +12,6 @@ ex04) [Ft_is_sort.c](./ex04/ft_is_sort.c)
 
 ex05) [Do-op](./ex05)
 
-# Related Video Link:
+# Related Videos Link:
 
 https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz
