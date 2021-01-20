@@ -1,4 +1,4 @@
-List of functions:
+# List of functions:
 
 ex00) z
 
@@ -19,3 +19,6 @@ ex07) b
 ex08) clean
 
 ex09) ft_magic
+
+# Videos Link
+https://www.youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8
