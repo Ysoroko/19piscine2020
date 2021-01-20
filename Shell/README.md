@@ -1,4 +1,4 @@
-[Shell00](./Shell00) | [Shell01](./Shell01)|
+[**Shell00**](./Shell00) | [**Shell01**](./Shell01)|
 ---------------------|---------------------|
 [z](./Shell00/ex00) | [print_groups.sh](./Shell01/ex01/print_groups.sh)
 [testShell00.tar](./Shell00/ex01) | [find_sh.sh](./Shell01/ex02/find_sh.sh)
