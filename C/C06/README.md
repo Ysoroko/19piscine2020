@@ -1,4 +1,4 @@
-List of required functions:
+List of functions:
 
 ex00) Ft_print_program_name.c
 
