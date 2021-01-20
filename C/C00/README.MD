@@ -1,4 +1,4 @@
-List of functions:
+# List of functions:
 
 ex00) Ft_putchar
 
@@ -15,3 +15,7 @@ ex05) Ft_print_comb.c
 ex06) Ft_print_comb2.c
 
 ex07) Ft_putnbr.c
+
+
+# Related Videos Link
+https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-
