@@ -1,4 +1,4 @@
-List of required functions:
+List of functions:
 
 ex00) Ft_iterative_factorial.c
 
