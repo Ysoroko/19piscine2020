@@ -8,7 +8,7 @@ The "piscine" is an intense coding challenge where during 4 weeks the entrants n
 
 [**C**](./C) - the rest of the solo projects (10 projects out of 13 done here), immerse you in the C language 
 
-[**Rush**](./Rush) - the group projects, done during weekends
+[**Rush**](./Rush) - the group projects, done during weekends and also coded in C language
 
 ------------------------------------------------------
 
