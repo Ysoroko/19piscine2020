@@ -8,7 +8,7 @@ ex03) [count_files.sh](./ex03/count_files.sh)
 
 ex04) [MAC.sh](./ex04/MAC.sh)
 
-ex05) ["\\?$\*'MaRViN'\*$?\\"](https://github.com/Ysoroko/19piscine2020/blob/main/Shell/Shell01/ex05/%22%5C%3F%24*'MaRViN'*%24%3F%5C%22)
+ex05) ["\\?$\*'MaRViN'\*$?\\"](./ex05)
 
 ex06) [skip.sh](./ex06/skip.sh)
 
