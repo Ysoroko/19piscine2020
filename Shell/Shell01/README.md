@@ -8,7 +8,7 @@ ex03) [count_files.sh](./ex03/count_files.sh)
 
 ex04) [MAC.sh](./ex04/MAC.sh)
 
-ex05) ["\\?$\*'MaRViN'\*$?\\"](./ex05/"\?$*'MaRViN'*$?\")
+ex05) ["\\?$\*'MaRViN'\*$?\\"](./ex05/"\\?$\*'MaRViN'\*$?\\")
 
 ex06) [skip.sh](./ex06/skip.sh)
 
