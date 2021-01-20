@@ -12,7 +12,7 @@ The "piscine" is an intense coding challenge where during 4 weeks the entrants n
 
 ------------------------------------------------------
 
-*Please note that if you are a student attempting to enter the school, using github and other people's code is considered cheating, so avoid using my code in your projects for your own sake.*
+*Please note that if you are a student attempting to enter the school, using github and other people's code is considered cheating, so avoid this webpage for your own sake.*
 
 #### My Results:
 ![](Images/img.png)
