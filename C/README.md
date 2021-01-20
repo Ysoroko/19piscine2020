@@ -7,6 +7,6 @@
 [Ft_print_comb.c](./C00/ex05/ft_print_comb.c) | [Ft_putstr.c](./C01/ex05/ft_putstr.c) | [Ft_str_is_uppercase.c](./C02/ex05/ft_str_is_uppercase.c) | [Ft_atoi_base.c](./C04/ex04/ft_atoi_base.c) | | [Ft_sqrt.c](./C05/ex05/ft_sqrt.c) | | [Ft_split.c](./C07/ex05/ft_split.c) | [Ft_strs_to_tab.c](./C08/ex04/ft_strs_to_tab.c) | | [Ft_is_sort.c](./C11/ex04/ft_is_sort.c) 
 [Ft_print_comb2.c](./C00/ex06/ft_print_comb2.c) | [Ft_strlen.c](./C01/ex06/ft_strlen.c) | [Ft_str_is_printable.c](./C02/ex06/ft_str_is_printable.c) | | | [Ft_is_prime.c](./C05/ex06/ft_is_prime.c) | |  [Ft_convert_base.c](./C07/ex04) | [Ft_show_tab.c](./C08/ex05/ft_show_tab.c) | | [Do-op](.C11//ex05)
 [Ft_putnbr.c](./C00/ex07/ft_putnbr.c) | [Ft_rev_int_tab.c](./C01/ex07/ft_rev_int_tab.c) | [Ft_strupcase.c](./C02/ex07/ft_strupcase.c) | | | [Ft_find_next_prime.c](./C05/ex07/ft_find_next_prime.c) | | | | | | 
-  | [Ft_sort_int_tab.c](./C00/ex08/ft_sort_int_tab.c) | | [Ft_strlowcase.c](./C02/ex08/ft_strlowcase.c) | | | | | | | | 
+  | [Ft_sort_int_tab.c](./C01/ex08/ft_sort_int_tab.c) | | [Ft_strlowcase.c](./C02/ex08/ft_strlowcase.c) | | | | | | | | 
   | | | [Ft_strcapitalize.c](./C02/ex09/ft_strcapitalize.c) | | | | | 
   | | |  [Ft_strlcpy.c](./C02/ex10/ft_strlcpy.c) | | | | | 
